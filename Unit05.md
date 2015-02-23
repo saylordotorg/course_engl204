@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL204: Cultural and Literary Expression in Modernity"
+course_description: "An introductory study of English literature and culture from the late 19th century through the 20th century. Topics include modernism, postmodernism, and post-colonialism."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Shift to Post-Modernism** <span id="5"></span> 
 *Now that we have a better grasp of “modernism,” we will attempt to
 identify and evaluate the distinctive features of a new literary moment:

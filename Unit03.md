@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL204: Cultural and Literary Expression in Modernity"
+course_description: "An introductory study of English literature and culture from the late 19th century through the 20th century. Topics include modernism, postmodernism, and post-colonialism."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Post-War Disillusion and "The Lost Generation"** <span
 id="3"></span> 
 *In the post-war years, nothing seemed certain:  the old stabilities of

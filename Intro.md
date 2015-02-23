@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL204: Cultural and Literary Expression in Modernity"
+course_description: "An introductory study of English literature and culture from the late 19th century through the 20th century. Topics include modernism, postmodernism, and post-colonialism."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL204: Cultural and Literary Expression in Modernity"
 ----------------------------------------------------------------------------
 

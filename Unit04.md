@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL204: Cultural and Literary Expression in Modernity"
+course_description: "An introductory study of English literature and culture from the late 19th century through the 20th century. Topics include modernism, postmodernism, and post-colonialism."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: High Modernist Aesthetics** <span id="4"></span> 
 *Drawing from our exposure to the high modernist techniques of Virginia
 Woolf’s* To the Lighthouse*, we will work on honing our definition of
