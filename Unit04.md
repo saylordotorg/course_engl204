@@ -187,7 +187,7 @@ id="4.2.3"></span> 
     Links: Poets.org: Ezra Pound’s *["Canto
     XIV"](http://www.poets.org/viewmedia.php/prmMID/19839) *(HTML) and
     T.S. Eliot’s [“Ezra Pound:  His Metric and
-    Poetry”](http://www.saylor.org/site/wp-content/uploads/2011/02/EZRA-POUND.pdf) (PDF)  
+    Poetry”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/EZRA-POUND.pdf) (PDF)  
         
      Instructions: Please read the entirety of Poets.org’s version of
     Pound’s Canto XIV and the entirety of Eliot’s essay on questions of
