@@ -72,7 +72,7 @@ id="3.1"></span> 
 Eliot’s “The Waste Land”** <span id="3.1.2"></span> 
 -   **Reading: T.S. Eliot’s “The Waste Land”**
     Link:  [T.S. Eliot’s “The Waste
-    Land”](http://www.saylor.org/site/wp-content/uploads/2011/02/THE-WASTE-LAND.pdf)
+    Land”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/THE-WASTE-LAND.pdf)
     (PDF)  
       
      Also available in:  
@@ -362,7 +362,7 @@ and the Impact of Form** <span id="3.5.3"></span> 
 Century** <span id="3.6.1"></span> 
 -   **Reading: Virginia Woolf’s essay “A Room of One’s Own”**
     Link: Virginia Woolf's essay [“A Room of One’s
-    Own”](http://www.saylor.org/site/wp-content/uploads/2011/02/A-ROOM-OF-ONES-OWN.pdf)
+    Own”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/A-ROOM-OF-ONES-OWN.pdf)
     (PDF)  
       
      Instructions:  Please read the entirety of Woolf’s essay (70

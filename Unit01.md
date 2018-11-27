@@ -184,7 +184,7 @@ id="1.2.1"></span> 
 -   **Reading: Reading: J.K. Huysmans’ Against the Grain: “Chapters 1
     and 2”**
     Link: J.K. Huysmans' [*Against the
-    Grain*](http://www.saylor.org/site/wp-content/uploads/2011/02/AGAINST-THE-GRAIN.pdf)
+    Grain*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/AGAINST-THE-GRAIN.pdf)
     (PDF) "Chapters 1 and 2"  
       
      Instructions: Please read the entirety of chapters 1 and 2 of
@@ -305,12 +305,12 @@ id="1.3.4"></span> 
     “Illustrating Wilde: An examination of Aubrey Beardsley's
     interpretation of Salome”**
     Links: Victorian Web’s [“The Life of Aubrey
-    Beardsley,”](http://www.saylor.org/site/wp-content/uploads/2012/05/engl204-1.3.4The-Life-of-Aubrey-Beardsley.pdf)(PDF),
+    Beardsley,”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/engl204-1.3.4The-Life-of-Aubrey-Beardsley.pdf)(PDF),
     [“Aubrey Beardsley's Works in Art and Literature: A Preliminary
     List”](http://www.victorianweb.org/art/illustration/beardsley/works.html) (HTML),
     and [“Illustrating Wilde: An examination of Aubrey Beardsley's
     interpretation of
-    Salome”](http://www.saylor.org/site/wp-content/uploads/2011/02/Illustrating-Wilde.pdf) (PDF)  
+    Salome”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Illustrating-Wilde.pdf) (PDF)  
       
      Instructions: Please click on each link above, and read the
     entirety of “The Life of Aubrey Beardsley” and “Illustrating Wilde”
@@ -334,7 +334,7 @@ id="1.3.4"></span> 
 id="1.4.1"></span> 
 -   **Reading: Victorianweb.org: “The British Empire"**
     Link: Victorianweb.org: ["The British
-    Empire"](http://www.saylor.org/site/wp-content/uploads/2011/02/The-British-Empire.pdf)
+    Empire"](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-British-Empire.pdf)
     (PDF)  
         
      Instructions: Please read the Victorian Web’s introduction to the
@@ -366,7 +366,7 @@ id="1.4.2"></span> 
 **1.5.1 Conrad and the Ethics of Empire** <span id="1.5.1"></span> 
 -   **Reading: Joseph Conrad’s Heart of Darkness**
     Link: Joseph Conrad's [*Heart of
-    Darkness*](http://www.saylor.org/site/wp-content/uploads/2011/02/HEART-OF-DARKNESS.pdf)
+    Darkness*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/HEART-OF-DARKNESS.pdf)
     (PDF)  
       
      Also available in:  
@@ -386,7 +386,7 @@ Heart of Darkness and Victorian Literature** <span id="1.5.2"></span> 
     and Whited Sepulchres in Conrad's Heart of Darkness”**
     Link: Victorianweb.org: Dr. Philip V. Allingham’s [“White Lies and
     Whited Sepulchres in Conrad's *Heart of
-    Darkness*”](http://www.saylor.org/site/wp-content/uploads/2011/02/White-Lies-and-Whited-Sepulchres-in-Conrad.pdf)
+    Darkness*”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/White-Lies-and-Whited-Sepulchres-in-Conrad.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of Dr. Allingham’s critical

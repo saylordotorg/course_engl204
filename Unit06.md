@@ -272,10 +272,10 @@ id="6.4"></span> 
     Dr. George Landow’s “The British East India Company—the Company that
     Owned a Nation (or Two)”**
     Links: Victorianweb.org: Dr. David Cody’s [“British
-    India”](http://www.saylor.org/site/wp-content/uploads/2011/02/British-India.pdf)
+    India”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/British-India.pdf)
     (PDF) and Dr. George Landow’s [“The British East India Company—the
     Company that Owned a Nation (or
-    Two)”](http://www.saylor.org/site/wp-content/uploads/2011/02/The-British-East-India-Company.pdf)
+    Two)”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-British-East-India-Company.pdf)
     (PDF)  
         
      Instructions: Please click on each hyperlink above, and read the
@@ -389,7 +389,7 @@ id="6.4.7"></span> 
 -   **Assessment: The Saylor Foundation's "Essay Prompts and
     Self-Grading Rubric"**
     Link: The Saylor Foundation's "[Essay Prompts and Self-Grading
-    Rubric](http://www.saylor.org/site/wp-content/uploads/2011/05/ENGL204-FINALEXAM-ESSAY_PROMPTS_AND_RUBRICS-FINAL.pdf)"
+    Rubric](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ENGL204-FINALEXAM-ESSAY_PROMPTS_AND_RUBRICS-FINAL.pdf)"
     (PDF)  
       
      Instructions: Read the linked pdf and follow the instructions
