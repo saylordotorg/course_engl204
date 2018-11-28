@@ -301,11 +301,11 @@ Sassoon and Wilfred Owen** <span id="2.3.4"></span> 
     (Available for Free)  
       
      as well as Wilfred Owen’s [“Arms and the
-    Boy”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Arms-and-the-Boy.pdf) (PDF),
+    Boy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Arms-and-the-Boy.pdf) (PDF),
     [“Anthem for Doomed
-    Youth”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Anthem-for-Doomed-Youth.pdf) (PDF),
+    Youth”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Anthem-for-Doomed-Youth.pdf) (PDF),
     and [“Dulce et Decorum
-    est”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Dulce-et-Decorum-est.pdf) (PDF)  
+    est”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Dulce-et-Decorum-est.pdf) (PDF)  
       
      All Links also available on:  
 
