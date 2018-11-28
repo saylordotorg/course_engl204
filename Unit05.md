@@ -103,7 +103,7 @@ Post-Modern World** <span id="5.1.2"></span> 
     Introduction to the Postmodern”**
     Links:  Purdue University:  Dr. Dino Felluga’s [“General
     Introduction to the
-    Postmodern”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Introduction-to-the-Postmodern.pdf)
+    Postmodern”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/04/Introduction-to-the-Postmodern.pdf)
     (PDF)  
         
      Instructions:  Please read the entirety of Dr. Felluga’s
